@@ -1,4 +1,4 @@
-# House Price Prediction 🏡
+# House Price Prediction
 
 In this project, I built a machine learning model to predict house prices. I used a dataset with different property features like total area, number of bedrooms, bathrooms, and other amenities to see what actually drives a house's value up.
 
